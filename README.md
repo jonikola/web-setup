@@ -21,10 +21,10 @@ It installs the required packages, downloads a template , and deploys it to the 
 ## Usage
 
 #### Make the script executable:
-`$ chmod +x deploy_nginx.sh`
+`$ chmod +x web-setup.sh`
 
 #### Run the script:
-`$ ./deploy_nginx.sh`
+`$ ./web-setup.sh`
 
 #### Open your web browser and navigate to:
 `http://your-server-IP-address`
