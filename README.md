@@ -20,7 +20,7 @@ It installs the required packages, downloads a template , and deploys it to the 
 
 ## Usage
 
-###Make the script executable:
+### Make the script executable:
 `$ chmod +x deploy_nginx.sh`
 
 ###Run the script:
